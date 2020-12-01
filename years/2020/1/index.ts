@@ -1,4 +1,4 @@
-import {readInputByLineParseNumber} from '../../helpers';
+import {readInputByLineParseNumber} from '../../../helpers';
 
 const target = 2020;
 const input = readInputByLineParseNumber();

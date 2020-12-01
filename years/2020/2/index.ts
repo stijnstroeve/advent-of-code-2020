@@ -1,4 +1,4 @@
-import {readInput} from '../../helpers';
+import {readInput} from '../../../helpers';
 const fs = require('fs');
 
 const input = readInput();

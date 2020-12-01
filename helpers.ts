@@ -1,17 +1,37 @@
+import {loadedConfig} from './config';
 const fs = require('fs');
 
+export function isDaySelected(): boolean {
+    return loadedConfig.config?.day != null && loadedConfig.config?.year != null;
+}
+
 /**
- * Gets the current running day out of the env variables.
+ * Gets the current selected day.
  */
 export function getCurrentDay(): string {
-    return process.env.CURRENT_DAY;
+    return loadedConfig.config.day;
+}
+
+/**
+ * Gets the current selected year.
+ */
+export function getCurrentYear(): string {
+    return loadedConfig.config.year;
+}
+
+export function getYearBasePath(year = getCurrentYear()): string {
+    return 'years/' + year;
+}
+
+export function getDayBasePath(year = getCurrentYear(), day = getCurrentDay()): string {
+    return getYearBasePath(year) + '/' + day;
 }
 
 /**
  * Reads the input from the input file.
  */
 export function readInput(): string {
-    return fs.readFileSync('days/' + getCurrentDay() + '/input.txt', 'utf8')
+    return fs.readFileSync(getDayBasePath() + '/input.txt', 'utf8')
 }
 
 /**
