@@ -1,7 +1,7 @@
-import {readInput} from '../../helpers';
+import {readInputByLineParseNumber} from '../../helpers';
 
 const target = 2020;
-const input = readInput().split('\n').map((x) => parseInt(x));
+const input = readInputByLineParseNumber();
 
 function calculatePart1(): number | null {
     for (let x = 0; x < input.length; x++) {
