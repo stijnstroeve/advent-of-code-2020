@@ -1,43 +1,51 @@
 import {readInput} from '../../helpers';
-const fs = require('fs');
 
-const input = readInput().split('\n');
+const target = 2020;
+const input = readInput().split('\n').map((x) => parseInt(x));
 
-console.log('Starting...');
+function calculatePart1(): number | null {
+    for (let x = 0; x < input.length; x++) {
+        let n1 = input[x];
 
-// Part 1
-for (let x = 0; x < input.length; x++) {
-    let n1 = parseInt(input[x]);
+        for (let y = 0; y < input.length; y++) {
+            let n2 = input[y];
 
-    for (let y = 0; y < input.length; y++) {
-        let n2 = parseInt(input[y]);
+            const sum = n1 + n2;
 
-        const sum = n1 + n2;
-
-        // console.log(sum);
-
-        if(sum == 2020) {
-            console.log('Part 1:', n1, n2, n1 * n2);
-        }
-    }
-}
-
-// Part 2
-for (let x = 0; x < input.length; x++) {
-    let n1 = parseInt(input[x]);
-
-    for (let y = 0; y < input.length; y++) {
-        let n2 = parseInt(input[y]);
-
-        for (let z = 0; z < input.length; z++) {
-            let n3 = parseInt(input[z]);
-
-            const sum = n1 + n2 + n3;
-
-            if(sum == 2020) {
-                console.log('Part 3:', n1, n2, n3, n1 * n2 * n3);
+            if(sum == target) {
+                return n1 * n2;
             }
         }
-
     }
+    return null;
 }
+
+function calculatePart2(): number | null {
+    for (let x = 0; x < input.length; x++) {
+        let n1 = input[x];
+
+        for (let y = 0; y < input.length; y++) {
+            let n2 = input[y];
+
+            for (let z = 0; z < input.length; z++) {
+                let n3 = input[z];
+
+                const sum = n1 + n2 + n3;
+
+                if(sum == 2020) {
+                    return n1 * n2 * n3;
+                }
+            }
+
+        }
+    }
+    return null;
+}
+
+console.log('Calculating answers...');
+
+const p1 = calculatePart1();
+console.log('Answer part 1:', p1);
+
+const p2 = calculatePart2();
+console.log('Answer part 2:', p2);
