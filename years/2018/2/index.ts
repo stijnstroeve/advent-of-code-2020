@@ -3,7 +3,7 @@ import {readInputByLine} from '../../../helpers';
 const input = readInputByLine().map(line => line.replace('\r', ''));
 
 function calculatePart1(): number {
-    
+
     let twoTimes = 0;
     let threeTimes = 0;
 

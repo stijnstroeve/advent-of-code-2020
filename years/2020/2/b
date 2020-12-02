@@ -1,0 +1,38 @@
+import {readInput, readInputByLine} from '../../../helpers';
+const fs = require('fs');
+
+const input = readInputByLine();
+let valid = 0;
+
+
+input.forEach((line) => {
+
+    const password = line.split(' ')[2];
+    const charToCheck = line.split(' ')[1].replace(':', '');
+    const min = parseInt(line.split(' ')[0].split('-')[0])
+    const max = parseInt(line.split(' ')[0].split('-')[1])
+
+    const charCountMap = {};
+
+    for (const char of password) {
+        if(!charCountMap[char]) {
+            charCountMap[char] = 1;
+        } else {
+            charCountMap[char] += 1;
+        }
+    }
+
+    for(const [char, value] of Object.entries(charCountMap)) {
+        if(char == charToCheck) {
+            if(value >= min && value <= max) {
+                valid++;
+            }
+        }
+    }
+
+})
+
+
+
+
+console.log('Valid', valid);
