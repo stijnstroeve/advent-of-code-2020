@@ -1,5 +1,7 @@
 global_chain = open("input.txt").read()
 
+redact_char = '*'
+
 
 def react_chain(chain):
     chain = list(chain)
@@ -15,14 +17,14 @@ def react_chain(chain):
             is_same = next_char.lower() == char.lower()
 
             if (char.islower() & next_char.isupper() | char.isupper() & next_char.islower()) & is_same:
-                chain[i] = '*'
-                chain[next_char_i] = '*'
+                chain[i] = redact_char
+                chain[next_char_i] = redact_char
 
                 amount_changed += 1
 
     chain = "".join(chain)
 
-    chain = chain.replace('*', '')
+    chain = chain.replace(redact_char, '')
 
     return chain, amount_changed
 
@@ -62,7 +64,6 @@ def part2(chain):
     sorted_abet_map = sorted(abet_map.items(), key=lambda item: item[1])
     lowest = sorted_abet_map[0][1]
 
-    # print(lowest)
     return lowest
 
 
