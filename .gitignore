@@ -107,3 +107,6 @@ dist
 .idea/
 
 .rc.json
+
+# Python
+venv/

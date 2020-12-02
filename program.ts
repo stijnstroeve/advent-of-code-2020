@@ -9,14 +9,14 @@ const fs = require('fs');
 const {spawn} = require('child_process');
 
 const loadTemplate = (template: string) => {
-    return fs.readFileSync(`templates/${template}.ts`, 'utf8')
+    return fs.readFileSync(`templates/${template}`, 'utf8')
 }
 
 program
     .command('generate <year> <day> [template]')
     .description('generates the template for a new day and year')
     .action((year: string, day: string, template: string) => {
-        template = template || 'default';
+        template = template || 'default.ts';
 
         const loadedTemplate = loadTemplate(template);
 
@@ -27,7 +27,7 @@ program
         }
 
         fs.mkdirSync(dayBasePath);
-        fs.writeFileSync(dayBasePath + '/index.ts', loadedTemplate, 'utf8')
+        fs.writeFileSync(dayBasePath + '/' + template, loadedTemplate, 'utf8')
         fs.writeFileSync(dayBasePath + '/input.txt', '', 'utf8')
 
         console.log(`Generated template for day ${day} and year ${year}.`);
