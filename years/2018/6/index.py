@@ -92,8 +92,9 @@ def get_border_ids():
 
 def prepare_map(coords):
     all_ids = []
-    # abet = 'abcdefghijklmnopqrstuvwxyz'
     id = 0
+
+    # abet = 'abcdefghijklmnopqrstuvwxyz'
     for coord in coords:
         pcoord = str(coord[0]) + ',' + str(coord[1])
 
@@ -123,8 +124,7 @@ def calculate_map(ids):
     return area_sizes
 
 
-def part1():
-    ids = prepare_map(coords)
+def part1(ids):
 
     ids_left = [x for x in ids if x not in get_border_ids()]
 
@@ -132,9 +132,54 @@ def part1():
     final_map = sorted(final_map.items(), key=lambda item: item[1])
     final_map.reverse()
 
+    print_map()
+
     return final_map[0][1]
 
 
+def distance_to_id(x, y, id):
+    global coords_map
 
-print('Part 1:', part1())
+    distance = math.inf
 
+    for entry in coords_map.items():
+
+        if entry[1] != id:
+            continue
+
+        coords = get_coords(entry)
+        tX = coords[0]
+        tY = coords[1]
+
+        dX = x - tX
+        dY = y - tY
+
+        distance = abs(dX) + abs(dY)
+
+    return distance
+
+
+def part2(min, ids):
+    amount = 0
+
+    w = get_borders()[0]
+    h = get_borders()[1]
+
+    for y in range(h):
+        for x in range(w):
+            sum = 0
+
+            for id in ids:
+                distance = distance_to_id(x, y, id)
+                sum += distance
+
+            if sum < min:
+                amount += 1
+
+    return amount
+
+
+ids = prepare_map(coords)
+
+print('Part 1:', part1(ids))
+print('Part 2:', part2(10000, ids))
