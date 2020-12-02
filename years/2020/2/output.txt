@@ -1,1 +1,2 @@
-Valid 694
+Part 1: 410
+Part 2: 694
