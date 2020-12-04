@@ -1,0 +1,2814 @@
+[
+    {
+        "missing": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true,
+        "cid": true,
+        "eyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "iyr": true,
+        "cid": true,
+        "eyr": false,
+        "hcl": true,
+        "hgt": true,
+        "ecl": false,
+        "byr": false,
+        "pid": false
+    },
+    {
+        "byr": true,
+        "eyr": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "missing": true,
+        "hcl": false,
+        "cid": true,
+        "ecl": false,
+        "eyr": false,
+        "hgt": false,
+        "pid": false
+    },
+    {
+        "ecl": false,
+        "pid": false,
+        "iyr": false,
+        "hcl": false,
+        "byr": false,
+        "hgt": false,
+        "eyr": false
+    },
+    {
+        "hcl": true,
+        "ecl": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "hcl": true,
+        "ecl": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "cid": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "hgt": true,
+        "hcl": true,
+        "iyr": true,
+        "eyr": true,
+        "byr": true,
+        "cid": true
+    },
+    {
+        "pid": false,
+        "byr": false,
+        "hgt": true,
+        "cid": true,
+        "ecl": false,
+        "hcl": false,
+        "eyr": false,
+        "iyr": false
+    },
+    {
+        "ecl": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true,
+        "byr": true,
+        "hgt": true,
+        "eyr": true
+    },
+    {
+        "cid": true,
+        "pid": true,
+        "hcl": true,
+        "hgt": true,
+        "byr": true,
+        "eyr": true,
+        "ecl": true,
+        "iyr": true
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "eyr": true,
+        "iyr": true,
+        "pid": true,
+        "hcl": true,
+        "byr": true
+    },
+    {
+        "cid": true,
+        "hcl": true,
+        "ecl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "hgt": true,
+        "byr": true,
+        "ecl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "hcl": true
+    },
+    {
+        "hcl": false,
+        "eyr": false,
+        "iyr": false,
+        "pid": false,
+        "ecl": false,
+        "hgt": false,
+        "byr": false
+    },
+    {
+        "ecl": true,
+        "byr": true,
+        "iyr": true,
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true
+    },
+    {
+        "pid": true,
+        "iyr": true,
+        "cid": true,
+        "byr": false,
+        "hcl": true,
+        "eyr": false,
+        "ecl": false,
+        "hgt": false
+    },
+    {
+        "cid": true,
+        "ecl": true,
+        "eyr": true,
+        "byr": true,
+        "iyr": true,
+        "hcl": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "ecl": true,
+        "byr": true,
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "hcl": true
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "byr": true
+    },
+    {
+        "hgt": false,
+        "byr": false,
+        "pid": false,
+        "hcl": true,
+        "iyr": true,
+        "cid": true,
+        "ecl": false,
+        "eyr": false
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "ecl": true,
+        "iyr": true,
+        "hgt": true,
+        "cid": true,
+        "byr": true,
+        "pid": true
+    },
+    {
+        "iyr": true,
+        "byr": true,
+        "hgt": false,
+        "ecl": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "cid": true,
+        "byr": true,
+        "ecl": true,
+        "hgt": true,
+        "hcl": true,
+        "iyr": true,
+        "eyr": true
+    },
+    {
+        "cid": true,
+        "hgt": true,
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true
+    },
+    {
+        "hgt": true,
+        "eyr": true,
+        "ecl": true,
+        "pid": true,
+        "hcl": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "cid": true,
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "byr": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "cid": true
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "cid": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "pid": true,
+        "iyr": true,
+        "ecl": false,
+        "hcl": true,
+        "eyr": false,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "cid": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true,
+        "byr": true
+    },
+    {
+        "byr": true,
+        "pid": true,
+        "eyr": true,
+        "cid": true,
+        "ecl": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true
+    },
+    {
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "hcl": true,
+        "ecl": true,
+        "hgt": true,
+        "iyr": true
+    },
+    {
+        "missing": true,
+        "iyr": true,
+        "ecl": true,
+        "hcl": true,
+        "hgt": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "pid": false,
+        "cid": true,
+        "iyr": false,
+        "hgt": false,
+        "hcl": true,
+        "ecl": false,
+        "eyr": true,
+        "byr": true
+    },
+    {
+        "pid": true,
+        "ecl": true,
+        "byr": true,
+        "hcl": true,
+        "eyr": true,
+        "iyr": true,
+        "hgt": true
+    },
+    {
+        "cid": true,
+        "eyr": true,
+        "hcl": true,
+        "iyr": true,
+        "hgt": true,
+        "pid": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "pid": true,
+        "iyr": true,
+        "eyr": true,
+        "byr": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "eyr": true,
+        "hgt": true,
+        "ecl": true,
+        "byr": true,
+        "cid": true,
+        "iyr": true,
+        "pid": true,
+        "hcl": true
+    },
+    {
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true,
+        "hcl": true
+    },
+    {
+        "hcl": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true,
+        "byr": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "eyr": true,
+        "byr": true,
+        "pid": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "iyr": true,
+        "hcl": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true,
+        "cid": true,
+        "eyr": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "ecl": true,
+        "hgt": true,
+        "byr": true,
+        "pid": true,
+        "iyr": true
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "iyr": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "hcl": true
+    },
+    {
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "byr": true,
+        "cid": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "eyr": true,
+        "pid": true,
+        "ecl": true,
+        "hcl": true,
+        "iyr": true,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "cid": true,
+        "byr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true,
+        "hcl": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "pid": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "hgt": true,
+        "iyr": true,
+        "pid": true,
+        "hcl": true,
+        "eyr": true,
+        "cid": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true,
+        "ecl": true,
+        "hgt": true,
+        "pid": true
+    },
+    {
+        "hcl": true,
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "hgt": true,
+        "cid": true,
+        "eyr": true
+    },
+    {
+        "eyr": true,
+        "hcl": true,
+        "pid": true,
+        "hgt": false,
+        "byr": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "cid": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true,
+        "byr": true
+    },
+    {
+        "byr": true,
+        "hgt": true,
+        "ecl": true,
+        "iyr": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "hgt": false,
+        "byr": true,
+        "pid": true,
+        "eyr": false,
+        "hcl": false,
+        "iyr": false,
+        "cid": true
+    },
+    {
+        "hcl": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "ecl": true,
+        "pid": true
+    },
+    {
+        "iyr": true,
+        "eyr": true,
+        "hgt": true,
+        "cid": true,
+        "ecl": true,
+        "pid": true,
+        "hcl": true,
+        "byr": true
+    },
+    {
+        "eyr": true,
+        "pid": true,
+        "cid": true,
+        "ecl": true,
+        "byr": true,
+        "iyr": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "iyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true,
+        "eyr": true,
+        "byr": true,
+        "cid": true,
+        "hcl": true
+    },
+    {
+        "eyr": false,
+        "cid": true,
+        "byr": true,
+        "hgt": false,
+        "hcl": false,
+        "ecl": false,
+        "iyr": true,
+        "pid": false
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "ecl": true,
+        "byr": true,
+        "pid": true
+    },
+    {
+        "byr": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "cid": true,
+        "hcl": true,
+        "hgt": true,
+        "ecl": true,
+        "eyr": true,
+        "byr": true,
+        "pid": true,
+        "iyr": true
+    },
+    {
+        "byr": true,
+        "hcl": true,
+        "ecl": true,
+        "hgt": true,
+        "eyr": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "pid": false,
+        "hcl": true,
+        "hgt": true,
+        "byr": true,
+        "iyr": true,
+        "cid": true,
+        "eyr": true,
+        "ecl": true
+    },
+    {
+        "hgt": true,
+        "ecl": true,
+        "iyr": true,
+        "eyr": true,
+        "hcl": true,
+        "pid": true,
+        "byr": true
+    },
+    {
+        "iyr": true,
+        "byr": true,
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "ecl": false
+    },
+    {
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true,
+        "eyr": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "iyr": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "iyr": false,
+        "eyr": false,
+        "pid": false,
+        "byr": false,
+        "hcl": true,
+        "hgt": false,
+        "ecl": false
+    },
+    {
+        "iyr": true,
+        "byr": true,
+        "cid": true,
+        "hgt": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "ecl": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "hcl": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "pid": true,
+        "byr": true,
+        "hgt": true,
+        "ecl": true,
+        "cid": true,
+        "hcl": true,
+        "eyr": true,
+        "iyr": true
+    },
+    {
+        "pid": true,
+        "ecl": true,
+        "hgt": true,
+        "hcl": false,
+        "eyr": true,
+        "iyr": true,
+        "byr": true,
+        "cid": true
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true,
+        "iyr": true,
+        "hcl": true,
+        "ecl": true
+    },
+    {
+        "iyr": true,
+        "hcl": true,
+        "ecl": true,
+        "byr": true,
+        "pid": true,
+        "cid": true,
+        "hgt": true,
+        "eyr": true
+    },
+    {
+        "ecl": false,
+        "hcl": false,
+        "pid": false,
+        "byr": false,
+        "eyr": false,
+        "iyr": false,
+        "hgt": false
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "eyr": true,
+        "cid": true,
+        "hgt": true,
+        "iyr": true,
+        "hcl": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "ecl": false,
+        "hgt": false,
+        "eyr": false,
+        "iyr": false,
+        "pid": true,
+        "byr": true
+    },
+    {
+        "iyr": true,
+        "byr": true,
+        "pid": true,
+        "ecl": true,
+        "eyr": true,
+        "hgt": true,
+        "hcl": true,
+        "cid": true
+    },
+    {
+        "iyr": true,
+        "hgt": true,
+        "ecl": true,
+        "cid": true,
+        "eyr": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "cid": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true,
+        "pid": true
+    },
+    {
+        "pid": true,
+        "eyr": false,
+        "hcl": true,
+        "ecl": false,
+        "hgt": true,
+        "byr": false,
+        "iyr": true
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "eyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "pid": true,
+        "hgt": true,
+        "cid": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": false,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "ecl": true,
+        "cid": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "cid": true,
+        "ecl": true,
+        "byr": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "ecl": true,
+        "hgt": true,
+        "cid": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "hcl": true,
+        "hgt": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "byr": true,
+        "eyr": true
+    },
+    {
+        "hgt": true,
+        "iyr": true,
+        "hcl": true,
+        "byr": true,
+        "pid": true,
+        "cid": true,
+        "ecl": true,
+        "eyr": true
+    },
+    {
+        "hcl": true,
+        "hgt": true,
+        "eyr": true,
+        "iyr": true,
+        "ecl": true,
+        "pid": true,
+        "byr": true,
+        "cid": true
+    },
+    {
+        "cid": true,
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "hcl": true,
+        "iyr": true,
+        "ecl": true,
+        "eyr": true,
+        "pid": true,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "iyr": true,
+        "eyr": true,
+        "ecl": true,
+        "cid": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "ecl": true,
+        "byr": true,
+        "eyr": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "pid": false,
+        "hcl": false,
+        "eyr": true,
+        "byr": false,
+        "hgt": false,
+        "ecl": false,
+        "iyr": false
+    },
+    {
+        "eyr": true,
+        "byr": true,
+        "hgt": true,
+        "ecl": true,
+        "iyr": true,
+        "pid": true,
+        "cid": true,
+        "hcl": true
+    },
+    {
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "byr": true,
+        "hcl": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "cid": true,
+        "ecl": true,
+        "hcl": true,
+        "hgt": true,
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "cid": true,
+        "iyr": true,
+        "ecl": false,
+        "hgt": false,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "hcl": true
+    },
+    {
+        "iyr": true,
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "cid": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "byr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "hgt": true,
+        "ecl": true,
+        "eyr": true,
+        "byr": true,
+        "cid": true,
+        "hcl": true,
+        "iyr": true
+    },
+    {
+        "iyr": true,
+        "hgt": true,
+        "hcl": true,
+        "byr": true,
+        "eyr": true,
+        "pid": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "byr": true,
+        "hgt": true,
+        "iyr": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "cid": true
+    },
+    {
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "pid": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true
+    },
+    {
+        "byr": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "iyr": true,
+        "hcl": true,
+        "byr": true,
+        "hgt": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "pid": true,
+        "iyr": true,
+        "hcl": true,
+        "byr": true,
+        "eyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "cid": true,
+        "ecl": false,
+        "pid": false,
+        "eyr": true,
+        "iyr": true,
+        "byr": true
+    },
+    {
+        "iyr": true,
+        "cid": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true,
+        "ecl": true,
+        "hcl": true,
+        "byr": true
+    },
+    {
+        "iyr": false,
+        "eyr": false,
+        "hgt": false,
+        "pid": false,
+        "byr": false,
+        "ecl": false,
+        "hcl": true
+    },
+    {
+        "pid": false,
+        "hcl": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "hgt": true,
+        "pid": true,
+        "iyr": false,
+        "eyr": false,
+        "hcl": false,
+        "byr": false,
+        "ecl": false
+    },
+    {
+        "pid": true,
+        "hgt": true,
+        "hcl": true,
+        "iyr": true,
+        "byr": true,
+        "eyr": true,
+        "ecl": true
+    },
+    {
+        "byr": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true,
+        "hgt": true,
+        "hcl": true
+    },
+    {
+        "hgt": true,
+        "iyr": true,
+        "hcl": true,
+        "eyr": true,
+        "ecl": true,
+        "pid": true,
+        "byr": true
+    },
+    {
+        "eyr": true,
+        "pid": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "cid": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "hgt": true,
+        "pid": true,
+        "iyr": true,
+        "hcl": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "eyr": true,
+        "ecl": true,
+        "pid": true,
+        "cid": true,
+        "iyr": true,
+        "byr": true,
+        "hgt": true,
+        "hcl": true
+    },
+    {
+        "hgt": true,
+        "iyr": true,
+        "byr": true,
+        "hcl": true,
+        "ecl": true,
+        "cid": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "eyr": true,
+        "ecl": true,
+        "hcl": true,
+        "iyr": true,
+        "byr": true,
+        "cid": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "hgt": false,
+        "byr": false,
+        "hcl": true,
+        "iyr": true,
+        "pid": false,
+        "ecl": false,
+        "cid": true,
+        "eyr": false
+    },
+    {
+        "byr": true,
+        "hgt": true,
+        "eyr": true,
+        "ecl": true,
+        "pid": true,
+        "iyr": true,
+        "hcl": true
+    },
+    {
+        "byr": true,
+        "eyr": true,
+        "ecl": true,
+        "hcl": true,
+        "pid": true,
+        "hgt": true,
+        "cid": true,
+        "iyr": true
+    },
+    {
+        "hgt": false,
+        "byr": false,
+        "ecl": false,
+        "eyr": false,
+        "cid": true,
+        "iyr": false,
+        "hcl": false,
+        "pid": false
+    },
+    {
+        "pid": true,
+        "hcl": false,
+        "ecl": true,
+        "hgt": false,
+        "eyr": false,
+        "iyr": true,
+        "byr": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "ecl": true,
+        "cid": true,
+        "hcl": false,
+        "iyr": false,
+        "byr": false
+    },
+    {
+        "eyr": true,
+        "ecl": true,
+        "hgt": true,
+        "hcl": true,
+        "cid": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "hgt": true,
+        "ecl": true,
+        "pid": true,
+        "cid": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true,
+        "byr": true
+    },
+    {
+        "ecl": true,
+        "cid": true,
+        "iyr": true,
+        "eyr": true,
+        "hcl": true,
+        "hgt": true,
+        "pid": true,
+        "byr": true
+    },
+    {
+        "eyr": false,
+        "iyr": true,
+        "ecl": true,
+        "hcl": true,
+        "byr": true,
+        "hgt": true,
+        "pid": true
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true,
+        "byr": true
+    },
+    {
+        "iyr": false,
+        "ecl": true,
+        "eyr": false,
+        "hcl": true,
+        "byr": false,
+        "hgt": false,
+        "pid": false
+    },
+    {
+        "byr": true,
+        "cid": true,
+        "iyr": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "missing": true,
+        "cid": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true,
+        "byr": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "byr": false,
+        "iyr": false,
+        "hgt": false,
+        "cid": true,
+        "eyr": false,
+        "ecl": false,
+        "hcl": false
+    },
+    {
+        "ecl": true,
+        "byr": true,
+        "pid": false,
+        "eyr": true,
+        "hcl": false,
+        "iyr": false,
+        "hgt": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "ecl": true,
+        "iyr": true,
+        "pid": true,
+        "cid": true,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "missing": true,
+        "ecl": true,
+        "pid": true,
+        "cid": true,
+        "eyr": true,
+        "iyr": true,
+        "byr": true,
+        "hcl": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "cid": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true,
+        "ecl": true,
+        "eyr": true
+    },
+    {
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "cid": true,
+        "iyr": true,
+        "hgt": true,
+        "eyr": true,
+        "hcl": true
+    },
+    {
+        "hcl": true,
+        "ecl": true,
+        "hgt": false,
+        "pid": false,
+        "byr": false,
+        "eyr": false,
+        "iyr": false,
+        "cid": true
+    },
+    {
+        "hgt": true,
+        "byr": true,
+        "ecl": true,
+        "pid": true,
+        "cid": true,
+        "hcl": true,
+        "iyr": true,
+        "eyr": true
+    },
+    {
+        "hgt": true,
+        "byr": true,
+        "ecl": true,
+        "eyr": true,
+        "iyr": true,
+        "pid": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "cid": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "ecl": true,
+        "iyr": true,
+        "hgt": true,
+        "hcl": true
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "hgt": true,
+        "eyr": true,
+        "pid": true,
+        "hcl": true,
+        "byr": true,
+        "cid": true
+    },
+    {
+        "byr": true,
+        "iyr": true,
+        "cid": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "ecl": true,
+        "pid": true
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true,
+        "ecl": true,
+        "hgt": true,
+        "eyr": true,
+        "cid": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "cid": true,
+        "hgt": true,
+        "byr": true,
+        "pid": true,
+        "ecl": true,
+        "hcl": true
+    },
+    {
+        "eyr": true,
+        "cid": true,
+        "pid": true,
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "ecl": true,
+        "hgt": true,
+        "pid": true,
+        "hcl": true,
+        "iyr": true,
+        "cid": true
+    },
+    {
+        "pid": true,
+        "hgt": true,
+        "cid": true,
+        "eyr": true,
+        "ecl": true,
+        "iyr": true,
+        "hcl": true,
+        "byr": true
+    },
+    {
+        "eyr": true,
+        "hgt": true,
+        "pid": true,
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "ecl": true,
+        "hgt": true,
+        "eyr": true,
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "cid": true
+    },
+    {
+        "missing": true,
+        "iyr": true,
+        "cid": true,
+        "ecl": false,
+        "eyr": true,
+        "hgt": true,
+        "byr": true,
+        "pid": false
+    },
+    {
+        "eyr": true,
+        "hcl": true,
+        "pid": true,
+        "cid": true,
+        "hgt": true,
+        "ecl": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "eyr": true,
+        "hcl": true,
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "hgt": true
+    },
+    {
+        "byr": true,
+        "hcl": true,
+        "ecl": false,
+        "hgt": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true
+    },
+    {
+        "hcl": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true,
+        "ecl": true,
+        "iyr": true,
+        "cid": true
+    },
+    {
+        "pid": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "ecl": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "hcl": true,
+        "hgt": true,
+        "ecl": true,
+        "pid": true,
+        "byr": true,
+        "cid": true,
+        "eyr": true,
+        "iyr": true
+    },
+    {
+        "cid": true,
+        "hcl": true,
+        "iyr": true,
+        "byr": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "eyr": true,
+        "cid": true,
+        "pid": true,
+        "ecl": true,
+        "byr": true
+    },
+    {
+        "missing": true,
+        "ecl": false,
+        "hcl": false,
+        "iyr": true,
+        "byr": false,
+        "cid": true,
+        "pid": false,
+        "eyr": false
+    },
+    {
+        "ecl": true,
+        "byr": true,
+        "eyr": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true,
+        "hgt": true,
+        "cid": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "ecl": true,
+        "pid": true,
+        "hgt": true,
+        "iyr": false,
+        "byr": true
+    },
+    {
+        "hgt": true,
+        "ecl": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "ecl": true,
+        "byr": true,
+        "pid": true,
+        "eyr": true,
+        "cid": true
+    },
+    {
+        "cid": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "hcl": true,
+        "ecl": true,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "eyr": true,
+        "ecl": true,
+        "pid": true,
+        "hgt": true,
+        "byr": true,
+        "hcl": true,
+        "iyr": true
+    },
+    {
+        "hcl": true,
+        "iyr": true,
+        "byr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true,
+        "eyr": true
+    },
+    {
+        "iyr": true,
+        "pid": true,
+        "hcl": true,
+        "byr": true,
+        "cid": true,
+        "ecl": true,
+        "hgt": true,
+        "eyr": true
+    },
+    {
+        "byr": true,
+        "hgt": true,
+        "eyr": true,
+        "hcl": true,
+        "ecl": true,
+        "pid": true,
+        "iyr": true
+    },
+    {
+        "pid": false,
+        "iyr": false,
+        "hcl": false,
+        "byr": false,
+        "ecl": false,
+        "hgt": true,
+        "eyr": false
+    },
+    {
+        "hcl": true,
+        "iyr": true,
+        "cid": true,
+        "byr": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true
+    },
+    {
+        "hgt": true,
+        "ecl": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "cid": true,
+        "iyr": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "eyr": true,
+        "byr": true,
+        "cid": true,
+        "hcl": true,
+        "ecl": true,
+        "hgt": true,
+        "pid": true,
+        "iyr": true
+    },
+    {
+        "eyr": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true,
+        "cid": true
+    },
+    {
+        "hgt": true,
+        "byr": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "hcl": true,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true
+    },
+    {
+        "eyr": false,
+        "iyr": false,
+        "byr": true,
+        "cid": true,
+        "hgt": true,
+        "ecl": false,
+        "hcl": false,
+        "pid": false
+    },
+    {
+        "cid": true,
+        "pid": false,
+        "iyr": true,
+        "hgt": false,
+        "hcl": false,
+        "byr": true,
+        "ecl": true,
+        "eyr": false
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "pid": true,
+        "iyr": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "iyr": true,
+        "pid": true,
+        "hgt": true,
+        "eyr": true,
+        "ecl": true,
+        "cid": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "byr": false,
+        "ecl": true,
+        "eyr": false,
+        "hgt": true,
+        "iyr": false,
+        "hcl": false
+    },
+    {
+        "iyr": true,
+        "hcl": true,
+        "eyr": true,
+        "cid": true,
+        "hgt": true,
+        "byr": true,
+        "pid": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "hgt": true,
+        "hcl": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "hgt": false,
+        "byr": false,
+        "ecl": false,
+        "cid": true,
+        "pid": false,
+        "iyr": false
+    },
+    {
+        "ecl": true,
+        "hcl": true,
+        "cid": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "cid": true,
+        "iyr": true,
+        "pid": true,
+        "eyr": true,
+        "ecl": true,
+        "byr": true
+    },
+    {
+        "cid": true,
+        "pid": true,
+        "byr": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "ecl": true,
+        "iyr": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "pid": true,
+        "cid": true,
+        "eyr": true,
+        "hcl": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "hgt": true,
+        "hcl": true,
+        "ecl": true,
+        "pid": true,
+        "iyr": true
+    },
+    {
+        "hgt": true,
+        "iyr": true,
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true,
+        "eyr": true
+    },
+    {
+        "byr": false,
+        "eyr": false,
+        "pid": false,
+        "iyr": false,
+        "ecl": false,
+        "hgt": false,
+        "hcl": false
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "byr": true,
+        "hcl": true
+    },
+    {
+        "pid": true,
+        "eyr": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true,
+        "iyr": true,
+        "hcl": true
+    },
+    {
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "hcl": true,
+        "eyr": true,
+        "cid": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "iyr": false,
+        "ecl": true,
+        "eyr": false,
+        "byr": false,
+        "hcl": false,
+        "hgt": false
+    },
+    {
+        "hcl": true,
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "cid": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "hgt": true,
+        "eyr": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "cid": true
+    },
+    {
+        "pid": false,
+        "byr": false,
+        "iyr": false,
+        "hcl": false,
+        "eyr": false,
+        "hgt": false,
+        "ecl": false
+    },
+    {
+        "missing": true,
+        "byr": false,
+        "iyr": false,
+        "hgt": false,
+        "eyr": true,
+        "ecl": false,
+        "pid": false
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "pid": true,
+        "cid": true,
+        "ecl": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true
+    },
+    {
+        "ecl": false,
+        "byr": false,
+        "eyr": false,
+        "hgt": false,
+        "pid": false,
+        "iyr": true,
+        "hcl": false
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "byr": true,
+        "iyr": true,
+        "hgt": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true
+    },
+    {
+        "eyr": true,
+        "byr": true,
+        "pid": true,
+        "hcl": true,
+        "cid": true,
+        "hgt": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "hcl": true,
+        "ecl": true,
+        "cid": true,
+        "hgt": true,
+        "byr": true,
+        "iyr": true,
+        "eyr": true
+    },
+    {
+        "hgt": true,
+        "byr": true,
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "cid": true,
+        "ecl": true,
+        "hcl": false
+    },
+    {
+        "missing": true,
+        "hcl": true,
+        "eyr": true,
+        "iyr": true,
+        "byr": true,
+        "ecl": true,
+        "pid": true,
+        "cid": true
+    },
+    {
+        "ecl": true,
+        "eyr": true,
+        "pid": true,
+        "hcl": true,
+        "hgt": true,
+        "byr": true,
+        "iyr": true
+    },
+    {
+        "iyr": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "ecl": true,
+        "hgt": true,
+        "cid": true,
+        "hcl": true
+    },
+    {
+        "byr": true,
+        "eyr": true,
+        "pid": true,
+        "hcl": true,
+        "iyr": true,
+        "cid": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "cid": true,
+        "hcl": true,
+        "iyr": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "eyr": true,
+        "hcl": true,
+        "byr": false,
+        "pid": true,
+        "hgt": true,
+        "cid": true
+    },
+    {
+        "cid": true,
+        "pid": true,
+        "ecl": true,
+        "byr": true,
+        "hcl": true,
+        "eyr": true,
+        "hgt": true,
+        "iyr": true
+    },
+    {
+        "iyr": true,
+        "eyr": false,
+        "pid": true,
+        "byr": true,
+        "hcl": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "hcl": true,
+        "pid": true,
+        "cid": true,
+        "ecl": true,
+        "eyr": true,
+        "iyr": true,
+        "byr": true
+    },
+    {
+        "pid": true,
+        "ecl": false,
+        "eyr": true,
+        "byr": false,
+        "hcl": true,
+        "iyr": false,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "eyr": true,
+        "iyr": true,
+        "hgt": true,
+        "cid": true,
+        "ecl": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "hgt": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "cid": true,
+        "pid": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "eyr": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "cid": true,
+        "ecl": true,
+        "iyr": true,
+        "hcl": true,
+        "eyr": true,
+        "byr": true,
+        "pid": true
+    },
+    {
+        "missing": true,
+        "byr": false,
+        "iyr": false,
+        "hcl": true,
+        "hgt": true,
+        "pid": false
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "hgt": true,
+        "hcl": true,
+        "cid": true
+    },
+    {
+        "ecl": true,
+        "byr": false,
+        "hcl": false,
+        "hgt": true,
+        "eyr": false,
+        "iyr": true,
+        "pid": false
+    },
+    {
+        "ecl": true,
+        "hgt": true,
+        "iyr": true,
+        "cid": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "hcl": true
+    },
+    {
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "hgt": true,
+        "iyr": true,
+        "hcl": true,
+        "ecl": true
+    },
+    {
+        "eyr": true,
+        "hgt": true,
+        "hcl": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "pid": true,
+        "ecl": true,
+        "eyr": true,
+        "cid": true,
+        "byr": true,
+        "iyr": true,
+        "hgt": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "ecl": true,
+        "byr": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true
+    },
+    {
+        "hgt": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "cid": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "hcl": true
+    },
+    {
+        "missing": true,
+        "pid": true,
+        "ecl": true,
+        "iyr": true,
+        "eyr": true,
+        "hcl": true,
+        "hgt": true
+    },
+    {
+        "eyr": true,
+        "ecl": true,
+        "hgt": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true,
+        "byr": true
+    },
+    {
+        "ecl": true,
+        "eyr": true,
+        "hcl": true,
+        "iyr": true,
+        "pid": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "hcl": true,
+        "eyr": true,
+        "ecl": true,
+        "iyr": true,
+        "pid": true,
+        "hgt": true,
+        "cid": true
+    },
+    {
+        "missing": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "iyr": true,
+        "pid": true
+    },
+    {
+        "eyr": true,
+        "iyr": true,
+        "ecl": true,
+        "byr": true,
+        "hcl": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "eyr": true,
+        "cid": true
+    },
+    {
+        "iyr": true,
+        "hgt": true,
+        "ecl": true,
+        "hcl": true,
+        "byr": true,
+        "pid": true,
+        "cid": true,
+        "eyr": true
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "cid": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "byr": true,
+        "hgt": true
+    },
+    {
+        "missing": true,
+        "hcl": true,
+        "cid": true,
+        "iyr": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true
+    },
+    {
+        "hgt": false,
+        "iyr": false,
+        "byr": true,
+        "ecl": false,
+        "pid": false,
+        "eyr": false,
+        "hcl": false
+    },
+    {
+        "missing": true,
+        "hgt": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true,
+        "ecl": true,
+        "byr": true
+    },
+    {
+        "missing": true,
+        "ecl": true,
+        "eyr": true,
+        "byr": true,
+        "iyr": true,
+        "pid": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true,
+        "eyr": true,
+        "hgt": true
+    },
+    {
+        "eyr": true,
+        "hcl": true,
+        "pid": true,
+        "cid": true,
+        "byr": true,
+        "hgt": false,
+        "ecl": true,
+        "iyr": true
+    },
+    {
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true,
+        "hgt": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "ecl": true,
+        "pid": true,
+        "iyr": true,
+        "eyr": true,
+        "byr": true
+    },
+    {
+        "cid": true,
+        "pid": false,
+        "byr": false,
+        "ecl": false,
+        "eyr": false,
+        "iyr": false,
+        "hgt": false,
+        "hcl": false
+    },
+    {
+        "missing": true,
+        "byr": true,
+        "eyr": false,
+        "ecl": false,
+        "cid": true,
+        "iyr": true,
+        "pid": false,
+        "hgt": false
+    },
+    {
+        "iyr": true,
+        "ecl": true,
+        "hgt": true,
+        "cid": true,
+        "byr": true,
+        "pid": true,
+        "eyr": true,
+        "hcl": true
+    },
+    {
+        "hgt": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "cid": true
+    },
+    {
+        "hcl": true,
+        "byr": true,
+        "pid": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true,
+        "eyr": true
+    },
+    {
+        "ecl": true,
+        "pid": true,
+        "eyr": true,
+        "iyr": true,
+        "hcl": true,
+        "hgt": true,
+        "byr": true
+    },
+    {
+        "cid": true,
+        "hgt": true,
+        "pid": true,
+        "hcl": true,
+        "iyr": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true
+    },
+    {
+        "cid": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "byr": true,
+        "eyr": true,
+        "pid": true,
+        "ecl": true
+    },
+    {
+        "cid": true,
+        "pid": false,
+        "ecl": false,
+        "iyr": true,
+        "byr": true,
+        "hgt": false,
+        "hcl": false,
+        "eyr": false
+    },
+    {
+        "pid": true,
+        "ecl": true,
+        "hcl": true,
+        "iyr": true,
+        "hgt": true,
+        "byr": true,
+        "eyr": true
+    },
+    {
+        "pid": true,
+        "eyr": true,
+        "hcl": true,
+        "byr": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true
+    },
+    {
+        "pid": true,
+        "hcl": true,
+        "hgt": true,
+        "ecl": true,
+        "eyr": true,
+        "byr": true,
+        "iyr": true,
+        "cid": true
+    },
+    {
+        "cid": true,
+        "hgt": true,
+        "iyr": true,
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "hcl": true
+    },
+    {
+        "eyr": true,
+        "iyr": true,
+        "pid": true,
+        "hcl": true,
+        "byr": true,
+        "ecl": true,
+        "hgt": true,
+        "cid": true
+    },
+    {
+        "missing": true,
+        "ecl": false,
+        "cid": true,
+        "hgt": false,
+        "eyr": false,
+        "byr": false,
+        "pid": false,
+        "hcl": false
+    },
+    {
+        "hgt": true,
+        "cid": true,
+        "ecl": true,
+        "byr": true,
+        "hcl": true,
+        "eyr": true,
+        "pid": true,
+        "iyr": true
+    },
+    {
+        "eyr": true,
+        "cid": true,
+        "iyr": true,
+        "byr": true,
+        "pid": true,
+        "hcl": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "hcl": true,
+        "iyr": true,
+        "hgt": true,
+        "pid": true,
+        "byr": true,
+        "eyr": true,
+        "ecl": true
+    },
+    {
+        "hgt": true,
+        "cid": true,
+        "ecl": true,
+        "pid": true,
+        "iyr": true,
+        "byr": true,
+        "hcl": true,
+        "eyr": true
+    },
+    {
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true,
+        "hgt": true,
+        "pid": true,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "hcl": true,
+        "pid": true,
+        "eyr": true,
+        "byr": true,
+        "hgt": true,
+        "iyr": true,
+        "cid": true
+    },
+    {
+        "pid": true,
+        "hcl": true,
+        "eyr": true,
+        "byr": true,
+        "hgt": true,
+        "ecl": true,
+        "iyr": true
+    },
+    {
+        "eyr": true,
+        "pid": true,
+        "hgt": true,
+        "cid": true,
+        "byr": true,
+        "hcl": true,
+        "iyr": true,
+        "ecl": true
+    },
+    {
+        "ecl": true,
+        "eyr": true,
+        "cid": true,
+        "pid": false,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "byr": true
+    },
+    {
+        "byr": true,
+        "pid": true,
+        "iyr": true,
+        "hcl": true,
+        "hgt": true,
+        "ecl": true,
+        "eyr": true
+    },
+    {
+        "missing": true,
+        "eyr": true,
+        "byr": true,
+        "ecl": true,
+        "cid": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true
+    },
+    {
+        "eyr": true,
+        "byr": true,
+        "cid": true,
+        "iyr": true,
+        "hgt": true,
+        "hcl": true,
+        "pid": false,
+        "ecl": true
+    },
+    {
+        "byr": true,
+        "hcl": true,
+        "eyr": true,
+        "iyr": true,
+        "pid": true,
+        "hgt": true,
+        "ecl": true
+    },
+    {
+        "byr": true,
+        "pid": true,
+        "hgt": true,
+        "eyr": true,
+        "iyr": true,
+        "ecl": true,
+        "hcl": true
+    },
+    {
+        "ecl": true,
+        "iyr": true,
+        "hcl": true,
+        "byr": true,
+        "eyr": true,
+        "hgt": true,
+        "pid": true
+    },
+    {
+        "cid": true,
+        "ecl": true,
+        "eyr": true,
+        "hcl": true,
+        "hgt": true,
+        "iyr": true,
+        "byr": true,
+        "pid": true
+    }
+]
