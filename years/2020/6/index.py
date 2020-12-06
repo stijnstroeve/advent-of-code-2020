@@ -32,7 +32,7 @@ def part2():
 
             if amount == len(group):
                 sum += 1
-                
+
     return sum
 
 
