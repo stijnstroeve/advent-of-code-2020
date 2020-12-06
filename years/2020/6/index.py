@@ -26,18 +26,13 @@ def part2():
                     answers[answer] = 0
 
                 answers[answer] += 1
-        print(answers)
+
         for item in answers.items():
-            answer = item[0]
             amount = item[1]
 
             if amount == len(group):
                 sum += 1
-
-            print(answer, amount)
-        # answers = list(set(answers))
-        # sum += len(answers)
-
+                
     return sum
 
 
